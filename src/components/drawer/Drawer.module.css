@@ -1,0 +1,23 @@
+.container {
+    background-color: #12171B;
+    height: 100vh;
+    color: white;
+    width: 264px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    position: fixed;
+    top: 0; 
+    left: 0; 
+}
+.link {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 20
+}
+.seprator {
+    margin-top: 30px;
+    border-width: 1;
+    border-color: gray;
+    width: 264;
+}

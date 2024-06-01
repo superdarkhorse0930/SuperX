@@ -1,0 +1,39 @@
+.container {
+    background-color: #151A1E;
+    padding: 50px;
+    color: white;
+  }
+  .searchBox {
+    height: 42px;
+    padding: 0 16px;
+    background: #FFFFFF0D;
+    
+    display: flex;
+    align-items: center;
+    
+    border-radius: 24px;
+    border: 1px;
+    border: 1px solid #FFFFFF0D
+  }
+  .searchIcon {
+    line-height: 0;
+  }
+  .searchInput input {
+    background-color: rgba(0,0,0,0);
+    margin-left: 16px;
+    border: 0;
+    font-size: 14.75px;
+    outline: none;
+    color: white;
+  }
+  .rightControls {
+    margin-left: auto;
+    width: 46.29px;
+    height: 20px;
+    padding: 1.11px 7.8px 1.67px 7.99px;
+    border-radius: 8px;
+    background: #0000001A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

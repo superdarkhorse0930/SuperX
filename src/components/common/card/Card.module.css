@@ -1,0 +1,16 @@
+.container {
+    border-radius: 8;
+    background-color: #ffffff;
+}
+
+.contentContainer {
+    flex-direction: row;
+}
+
+.leftContentContainer {
+    width: 60%;
+}
+
+.rightContentContainer {
+    width: 40%
+}
